@@ -1,4 +1,3 @@
-
 /*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
@@ -14,9 +13,6 @@ import javax.faces.bean.SessionScoped;
 
 
 
-
-@SessionScoped
-@ManagedBean
 
 
 public class ManagedBeanAdministrar implements Serializable{
